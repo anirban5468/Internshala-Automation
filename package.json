@@ -1,0 +1,16 @@
+{
+  "name": "in",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "2captcha": "^3.0.5-2",
+    "puppeteer": "^23.0.2"
+  }
+}
